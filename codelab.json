@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-11-05T12:27:56+01:00",
+  "id": "rladgar",
+  "duration": 0,
+  "title": "Sock Puppets",
+  "summary": "Sock Puppets",
+  "source": ".\\SockPuppet.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/rladgar/rladgar.github.io/issues/",
+  "url": "rladgar"
+}
